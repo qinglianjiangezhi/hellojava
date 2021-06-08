@@ -24,4 +24,12 @@ public class Demo01 {
     public static void print3(){
         System.out.println("哈哈哈哈");
     }
+
+    public static void print4(){
+        System.out.println("打印方法4");
+    }
+
+    public static void print5(){
+        System.out.println("打印方法5");
+    }
 }
