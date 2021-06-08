@@ -20,4 +20,8 @@ public class Demo01 {
     public static void print2(){
         System.out.println("哈哈2");
     }
+
+    public static void print3(){
+        System.out.println("哈哈哈哈");
+    }
 }
