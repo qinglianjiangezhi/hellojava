@@ -11,6 +11,8 @@ public class Demo01 {
         System.out.println("Hello Java!");
     }
 
+    public static void print0(){
+    }
     public static void print(){
         System.out.println("哈哈");
     }
